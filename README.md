@@ -1,9 +1,10 @@
 # CurrentWork
 It records what I'm doing currently
 ## Enterprice
-  1. A Small Cross Border Electronic Commerce Platform - From Japan,US,Australia,Italy,UK,Canada to China Direactly
+  1. A Small Cross Border Electronic Commerce Platform - From Japan,US,Australia,Italy,UK,Canada to China Direactly 
+  ![]("https://cdn0.iconfinder.com/data/icons/octicons/1024/database-128.png")
 ## Software
-  1. Docker
+  1. Docker 
   2. Fetch API
   3. ownCloud
   4. homebridge
