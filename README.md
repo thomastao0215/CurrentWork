@@ -1,6 +1,7 @@
 # CurrentWork
 It records what I'm doing currently
 ## Enterprice
+  1. A Small Cross Border Electronic Commerce Platform - From Japan,US,Australia,Italy,UK,Canada to China Direactly
 ## Software
   1. Docker
   2. Fetch API
@@ -13,6 +14,7 @@ It records what I'm doing currently
   9. Payment for Alipay & Wechat
   10. Python Script for configuring Shadowsocks Automaticly
   11. React Application for Backend Management
+  12. JIACHEN.js -A Javascript Components Library for React 
 ## Hardware
   1. SmileCoffe Centeral Controller 
   2. Raspberry Pi NetGate
@@ -21,3 +23,8 @@ It records what I'm doing currently
   1. SmileCoffe - A Smille Controlled Coffe Machine via iOS App and Arduino with ESP8266
   2. Lmtry.com
   3. SSIP
+## Learning Resource
+  1. https://codepen.io/brian-baum/pen/MwxorO
+  2. https://docs.docker.com/engine/getstarted-voting-app/
+  3. https://cn.aliyun.com/product/containerservice?spm=5176.100239.blogcont67160.37.uGG9Ui
+  4. https://facebook.github.io/react/docs/addons.html
