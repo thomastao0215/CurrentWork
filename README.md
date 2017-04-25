@@ -3,6 +3,7 @@ It records what I'm doing currently
 ## Enterprice
   1. A Small Cross Border Electronic Commerce Platform - From Japan,US,Australia,Italy,UK,Canada to China Direactly 
   ![]("https://cdn0.iconfinder.com/data/icons/octicons/1024/database-128.png")
+  2. A Foot Video Media Platform - Record what people 
 ## Software
   1. Docker 
   2. Fetch API
@@ -20,6 +21,13 @@ It records what I'm doing currently
 ## Hardware
   1. SmileCoffe Centeral Controller 
   2. Raspberry Pi NetGate
+## Art
+  1. Food Art - 色 ，香 ，味
+  2. Record Art - Video , Photograph
+  3. Playing Art - With Friends and make people happy
+
+## Book
+  1. The Art of Computer Programmming
 ## Project
   1. SmileCoffe - A Smille Controlled Coffe Machine via iOS App and Arduino with ESP8266
   2. Lmtry.com
